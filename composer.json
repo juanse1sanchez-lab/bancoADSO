@@ -1,0 +1,17 @@
+{
+    "name": "sena/banco-adso",
+    "description": "BANCO ADSO Simulador",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "juanse1sanchez-lab",
+            "email": "juanse1sanchez@gmail.com"
+        }
+    ],
+    "require": {}
+}
